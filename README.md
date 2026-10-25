@@ -44,7 +44,6 @@ Helping Myanmar students study in Korea. I saw too many lives damaged by the wro
 - 🔍 Fully transparent process (student & parents stay informed)
 - 🤖 Own **CRM** + **24/7 Q&A bot** (Telegram) for Korea study questions
 - ⚙️ ~**90%** of operations automated with AI agents
-- 🤝 Looking for a Myanmar partner who gets local culture & ops (via CURI / Su Phone Mo)
 
 <p align="center">
   <img src="./img/qa-bot-result.png" alt="OTK Q&A bot — result" height="360"/>
