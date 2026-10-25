@@ -29,7 +29,7 @@
 
 - 🧠 **12 years** in strategy & business development · ~**3 years** hands-on with AI
 - 🏢 Ran a company as **CEO in China**; also operated in the **USA**
-- 🌏 Lived / worked across Korea, Myanmar, China, Japan, Thailand, Malaysia, Vietnam, USA, Canada, Spain, France, Italy, UAE
+- 🌏 Across Korea, Myanmar, China, Japan, Thailand, Malaysia, Vietnam, USA, Canada, Spain, France, Italy, UAE
 - 🗣️ **Korean** (native) · **Chinese** (advanced) · **English** (intermediate)
 - 🏌️ Also building in **golf**, **fashion**, and **coffee** — OTK is one of my business projects
 
