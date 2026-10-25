@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Young</h1>
+<h1 align="center">👋 Hi, I'm Daniel Hwang</h1>
 
 <p align="center">
   <b>Founder & Chairman</b> &nbsp;·&nbsp; <b>One to Korea (OTK)</b> &nbsp;·&nbsp; <b>TSN Solutions</b>
