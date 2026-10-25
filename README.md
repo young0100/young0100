@@ -1,82 +1,102 @@
+<!-- ============================================================= -->
+<!--  Daniel Hwang · GitHub Profile README                         -->
+<!-- ============================================================= -->
+
 <h1 align="center">👋 Hi, I'm Daniel Hwang</h1>
 
 <p align="center">
-  <b>Founder & Chairman</b> &nbsp;·&nbsp; <b>One to Korea (OTK)</b> &nbsp;·&nbsp; <b>TSN Solutions</b>
+  <b>Founder</b> &nbsp;·&nbsp; <b>Strategy & BD</b> &nbsp;·&nbsp; <b>AI-operated businesses</b>
 </p>
 
 <p align="center">
-  🇰🇷 Korean &nbsp;·&nbsp; 🇹🇭 Living in Bangkok &nbsp;·&nbsp; 🇨🇳 Studied in China &nbsp;·&nbsp; 🧠 INTJ
+  Korean 🇰🇷 living in <b>Bangkok</b> 🇹🇭 &nbsp;·&nbsp; Studied in China 🇨🇳 &nbsp;·&nbsp; INTJ<br>
+  Loves sports 🏋️ and trying new things
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Strategy%20%26%20BD-12%20yrs-1E2A78?style=for-the-badge" alt="Strategy & BD">
-  <img src="https://img.shields.io/badge/Hands--on%20AI-~3%20yrs-FF6B35?style=for-the-badge" alt="AI">
-  <img src="https://img.shields.io/badge/Based%20in-Bangkok-0A66C2?style=for-the-badge" alt="Bangkok">
+  <img src="https://img.shields.io/badge/Based-Bangkok-3182F6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bangkok"/>
+  <img src="https://img.shields.io/badge/Focus-AI_+_Education-191F28?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Languages-KR_·_ZH_·_EN-3182F6?style=for-the-badge" alt="Languages"/>
+</p>
+
+<p align="center">
+  <img src="./img/intro-card.png" alt="Daniel Hwang — OTK intro" width="920"/>
 </p>
 
 ---
 
-### 👤 Who I Am
+### 🧑‍💼 About Me
 
-- 🇰🇷 Korean, living in **Bangkok** · studied in **China**
-- 🧠 **INTJ** · ⚽ loves sports and trying new things
-- 💼 **12 years** in strategy & business development · ran a company as **CEO in China**
-- 🤖 **~3 years** hands-on with AI — I run an AI-agent org for CRM, content, and daily ops
-- 🌐 OTK is one of my business projects. I am involved in the **⛳ golf**, **👗 fashion**, and **☕ coffee** industries.
-
-### 🗣️ Languages
-
-| Language | Level |
-|---|---|
-| 🇰🇷 Korean | Native |
-| 🇨🇳 Chinese | Advanced |
-| 🇬🇧 English | Intermediate |
-
-### ✈️ Countries Visited
-
-🇰🇷 Korea · 🇲🇲 Myanmar · 🇨🇳 China · 🇯🇵 Japan · 🇹🇭 Thailand · 🇲🇾 Malaysia · 🇻🇳 Vietnam · 🇺🇸 USA · 🇨🇦 Canada · 🇪🇸 Spain · 🇫🇷 France · 🇮🇹 Italy · 🇦🇪 UAE
+- 🧠 **12 years** in strategy & business development · ~**3 years** hands-on with AI
+- 🏢 Ran a company as **CEO in China**; also operated in the **USA**
+- 🌏 Lived / worked across Korea, Myanmar, China, Japan, Thailand, Malaysia, Vietnam, USA, Canada, Spain, France, Italy, UAE
+- 🗣️ **Korean** (native) · **Chinese** (advanced) · **English** (intermediate)
+- 🏌️ Also building in **golf**, **fashion**, and **coffee** — OTK is one of my business projects
 
 ---
 
-### 🚀 Now Building — One to Korea (OTK)
+### 🚀 What I'm Building Now
 
-> Helping **Myanmar students study in Korea** 🇲🇲 → 🇰🇷  
-> I've seen students hurt by the wrong agencies. OTK exists to fix that.
+#### One to Korea (OTK) — *one of my projects*
+Helping Myanmar students study in Korea. I saw too many lives damaged by the wrong agency — so I'm fixing the path with **free**, **transparent**, **AI-operated** ops.
 
-**✨ What makes OTK different**
+- 🎓 Free consultation + free visa / admission process guidance
+- 🔍 Fully transparent process (student & parents stay informed)
+- 🤖 Own **CRM** + **24/7 Q&A bot** (Telegram) for Korea study questions
+- ⚙️ ~**90%** of operations automated with AI agents
+- 🤝 Looking for a Myanmar partner who gets local culture & ops (via CURI / Su Phone Mo)
 
-- 🆓 Free consultation + free visa & admission guidance for students
-- 🔍 Fully transparent process
-- 🗂️ Own CRM + 24/7 Q&A bot
-- ⚙️ About 90% of operations automated with AI
-
-**🧩 What I'm building**
-
-- 🗃️ Student CRM (`otkme_crm_final`) — leads, applications, documents, messenger, billing
-- 💬 Free student funnel — Telegram Q&A + Calendly consult + channel growth
-- 🎬 Content & ops bots — TikTok/Facebook creatives, review bots, scheduling
-- ☁️ OTK growth stack on Cloudflare Workers + FastAPI
-
----
-
-### 🛠️ Tools I Use
-
-<p>
-  <img src="https://img.shields.io/badge/Grok%20Bot-000000?style=flat-square&logo=x&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white">
-  <img src="https://img.shields.io/badge/Buffer-231F20?style=flat-square&logo=buffer&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white">
+<p align="center">
+  <img src="./img/qa-bot-result.png" alt="OTK Q&A bot — result" height="360"/>
+  &nbsp;
+  <img src="./img/qa-bot-menu.png" alt="OTK Q&A bot — 24/7 menu" height="360"/>
 </p>
 
+#### Other industries I work in
+- ⛳ **Golf** — China golf / elite segment projects
+- 👗 **Fashion** — fashion ERP & related ops
+- ☕ **Coffee** — Korean café roaster / China manufacturing exploration
+
 ---
 
-<p align="center">🤝 Students always stay free — consultation, admission & visa guidance included.</p>
+### 🧰 Tools I Use
+
+**AI & agents**
+
+![Grok](https://img.shields.io/badge/Grok_Bot-000000?style=flat&logo=x&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+
+**Build & infra**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Ops & content**
+
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
+![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![Buffer](https://img.shields.io/badge/Buffer-168EEA?style=flat&logo=buffer&logoColor=white)
+
+---
+
+### 📌 Featured
+
+| Project | What it is |
+|--------|------------|
+| [`mingalar-edu`](https://github.com/young0100/mingalar-edu) | Education / Myanmar stack |
+| [`otk-media`](https://github.com/young0100/otk-media) | OTK public media assets |
+| `otkme_crm_final` | Student CRM (private) — leads, docs, messenger |
+
+---
+
+<p align="center">
+  <i>Build trust first. Automate the rest.</i>
+</p>
