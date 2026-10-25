@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Young
 
-<!--
-**young0100/young0100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Chairman — **One to Korea (OTK)** and **TSN Solutions**, based in Bangkok. I run an AI-agent org that owns CRM, content, and day-to-day ops so students get fast, transparent help.
 
-Here are some ideas to get you started:
+**Who I am**
+- Build Myanmar → Korea education pathways end to end
+- Operate with a multi-bot company OS (hiring, rules, daily reviews)
+- Students stay free — consultations, admission & visa guidance included
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm building**
+- Student CRM (`otkme_crm_final`) — leads, applications, documents, messenger, billing
+- Free student funnel — Telegram Q&A + Calendly consult + channel growth
+- Content & ops bots — TikTok/Facebook creatives, review bots, scheduling
+- OTK growth stack on Cloudflare Workers + FastAPI
+
+**Tools I use**
+Grok Bot org · Claude · Codex · Cloudflare Workers · FastAPI · Telegram · Buffer · Figma · Notion · Linear · Slack · Calendly · Google Workspace
