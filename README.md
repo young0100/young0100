@@ -20,6 +20,12 @@
 </p>
 
 <p align="center">
+  <a href="https://young0100.github.io/"><img src="https://img.shields.io/badge/Portfolio-young0100.github.io-E8643A?style=for-the-badge" alt="Portfolio"/></a>
+  <br>
+  <sub><a href="https://young0100.github.io/">English</a> · <a href="https://young0100.github.io/ko/">한국어</a> · <a href="https://young0100.github.io/zh/">简体中文</a></sub>
+</p>
+
+<p align="center">
   <img src="./img/intro-card.png" alt="Daniel Hwang — OTK intro" width="920"/>
 </p>
 
@@ -90,6 +96,7 @@ Helping Myanmar students study in Korea. I saw too many lives damaged by the wro
 
 | Project | What it is |
 |--------|------------|
+| [**Portfolio**](https://young0100.github.io/) | China ↔ Korea cross-border operator site — [EN](https://young0100.github.io/) · [KO](https://young0100.github.io/ko/) · [ZH](https://young0100.github.io/zh/) |
 | [`mingalar-edu`](https://github.com/young0100/mingalar-edu) | Education / Myanmar stack |
 | [`otk-media`](https://github.com/young0100/otk-media) | OTK public media assets |
 | `otkme_crm_final` | Student CRM (private) — leads, docs, messenger |
